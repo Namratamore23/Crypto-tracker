@@ -1,0 +1,5 @@
+- We need to use `https://www.coingecko.com/en/api` and build a crypto currency price tracker
+- We should be able to list multiple currencies and their price on the home page
+- Search functionality to search for a currency
+- if we click on a currency, then we should see the details of it and it's price history based on hours,days and years.
+-Support USD and INR pricing for listing
